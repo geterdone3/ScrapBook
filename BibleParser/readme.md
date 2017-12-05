@@ -1,0 +1,1 @@
+This is a simple program that downloads the bible off of Project Gutenberg, and parses it such that it creates a list with every line being a phrase of the bible, with the old/new:book:chapter:line at the front of it.
